@@ -1,8 +1,10 @@
 # mindbox
-Mindbox Test
+Эксперименты с датасетом от mindbox
 
-/original/ исходная задача по ML
+/baseline/ исходная задача по ML
 
-/solution/ решение задачи по ML
+/sandbox/ эксперименты - нейросети, стэкинг
 
-/sql/ задача и решение по SQL
+/solution/ решение задачи ALS по ML
+
+/sql/ задача по SQL и решение
